@@ -1,0 +1,160 @@
+{
+  "yarns": [
+    {
+      "id": 1,
+      "brandNameId": 1,
+      "name": "Shadow",
+      "typeId": 2,
+      "yardAmount": 23,
+      "colorId": 7,
+      "notes": "9oz yarn; very soft, used to make houndstooth scarf",
+      "price": 45,
+      "img": "/photos/Gist_Shadow.jpg"
+    },
+    {
+      "id": 2,
+      "brandNameId": 1,
+      "name": "Cream",
+      "typeId": 2,
+      "yardAmount": 47,
+      "colorId": 9,
+      "notes": "9oz yarn; very soft, used to make houndstooth scarf",
+      "price": 45,
+      "img": "/photos/Gist Cream.jpg"
+    },
+    {
+      "id": 3,
+      "brandNameId": 1,
+      "name": "Rose",
+      "typeId": 1,
+      "yardAmount": 600,
+      "colorId": 1,
+      "notes": "4oz yarn; 55% linen/45% cotton; pink chambray",
+      "price": 22,
+      "img": "/photos/Gist Rose.jpg"
+    },
+    {
+      "id": 4,
+      "brandNameId": 1,
+      "name": "Dusk",
+      "typeId": 1,
+      "yardAmount": 600,
+      "colorId": 5,
+      "notes": "4oz yarn; 55% linen/45% cotton; dark-blue chambray",
+      "price": 22,
+      "img": "/photos/Gist Dusk.jpg"
+    },
+    {
+      "id": 5,
+      "brandNameId": 1,
+      "name": "Chambray",
+      "typeId": 1,
+      "yardAmount": 600,
+      "colorId": 5,
+      "notes": "4oz yarn; 55% linen/45% cotton; light-blue chambray",
+      "price": 22,
+      "img": "/photos/Gist Chambray.jpg"
+    },
+    {
+      "id": 6,
+      "brandNameId": 2,
+      "name": "Orange",
+      "typeId": 1,
+      "yardAmount": 1680,
+      "colorId": 2,
+      "notes": "1/2 lb yarn; 40% linen/60% cotton",
+      "price": 17,
+      "img": "/photos/Brassard Orange.jpg"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "red/pink"
+    },
+    {
+      "id": 2,
+      "color": "orange"
+    },
+    {
+      "id": 3,
+      "color": "yellow"
+    },
+    {
+      "id": 4,
+      "color": "green"
+    },
+    {
+      "id": 5,
+      "color": "blue"
+    },
+    {
+      "id": 6,
+      "color": "purple"
+    },
+    {
+      "id": 7,
+      "color": "grey"
+    },
+    {
+      "id": 8,
+      "color": "black"
+    },
+    {
+      "id": 9,
+      "color": "white/off white"
+    }
+  ],
+  "brandNames": [
+    {
+      "id": 1,
+      "brandName": "Gist"
+    },
+    {
+      "id": 2,
+      "brandName": "Brassard"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "cotton/linen"
+    },
+    {
+      "id": 2,
+      "type": "baby alpaca"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bonnie",
+      "email": "bonnievog@gmail.com",
+      "administrator": true
+    },
+    {
+      "id": 2,
+      "name": "Keith",
+      "email": "keithvog@gmail.com",
+      "administrator": false
+    },
+    {
+      "id": 3,
+      "name": "Emma",
+      "email": "emmavog@gmail.com",
+      "administrator": false
+    },
+    {
+      "id": 4,
+      "name": "Stephen",
+      "email": "stephenvog@gmail.com",
+      "administrator": false
+    },
+    {
+      "id": 5,
+      "name": "Madeline",
+      "email": "madelinevog@gmail.com",
+      "administrator": false
+    }
+  ]
+}
